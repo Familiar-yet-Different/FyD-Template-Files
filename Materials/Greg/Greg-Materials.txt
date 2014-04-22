@@ -1,0 +1,212 @@
+Materials
+
+000- Credit-Copper
+001- Credit-Silver
+002- Credit-Gold
+003- Credit-Diamond
+004- Ingot-Iridium Alloy (Adv Alloy and Iridium)
+005- Ingot-Tungsten-Steel Hot
+006- Ingot-Tungsten-Steel
+
+007- Oil Berry
+008- Indigo Blossom
+009- Indigo Dye
+013- Plate-Magnalium
+014- Flour
+015- Plate-Wood
+016- Ingot-Iridium
+
+017- Ingot-Silver
+018- Ingot-Aluminium
+019- Ingot-Titanium
+020- Ingot-Chrome
+021- Ingot-Electrum
+022- Ingot-Tungsten
+023- Ingot-Lead
+
+024- Ingot-Zinc
+025- Ingot-Brass
+026- Ingot-Steel
+027- Ingot-Platinum
+028- Ingot-Nickel
+029- Ingot-Invar
+030- Ingot-Osmium
+
+031- Ingot-Antimony
+032- Ruby
+033- Sapphire
+034- Sapphire-Green
+035- Lazurite Chunk
+036- Plate-Silicon
+037- Olivine
+
+038- Ingot-Thorium
+039- Ingot-Plutonium
+040- Ingot-Magnalium (2 Aluminium-Magnesium)
+041- Ingot-Soldering Alloy (9 Tin-Antimony)
+042- Ingot-Battery Alloy (4 Lead-Antimony)
+043- Ingot-Uranium
+044- Ingot-Steel-Stainless
+
+045- Ingot-Cupronickel (Nickel-Copper)
+046- Ingot-Nichrome (4 Nickel-Chrome)
+047- Ingot-Kanthal (Aluminium-Iron-Chrome)
+054- Garnet-Red
+055- Garnet-Yellow
+058- Plate-Garnet-Yellow
+059- Plate-Garnet-Red
+
+- Plate-Oak
+- Plate-Spruce
+- Plate-Birch
+- Plate-Jungle
+- Plate-Iron
+- Plate-Gold
+- Plate-Steel-Stainless
+
+- Plate-Tin
+- Plate-Copper
+- Plate-Silver
+- Plate-Bronze
+- Plate-Electrum
+- Plate-Nickel
+- Plate-Invar
+
+- Plate-Lead
+- Plate-Aluminium
+- Plate-Chrome
+- Plate-Titanium
+- Plate-Steel
+- Plate-Platinum
+- Plate-Tungsten
+
+- Plate-Brass
+- Plate-Zinc
+- Plate-Tungsten-Steel
+- Plate-Osmium
+- Plate-Iridium
+- Plate-Battery Alloy
+- Plate-Diamond
+
+- Plate-Emerald
+- Plate-Ruby
+- Plate-Sapphire
+- Plate-Sapphire-Green
+- Plate-Olivine
+- Plate-Redstone
+- Plate-Lapis
+
+- Plate-Coal
+- Rod-Iron
+- Rod-Gold
+- Rod-Steel-Stainless
+- Rod-Tin
+- Rod-Copper
+- Rod-Silver
+
+- Rod-Bronze
+- Rod-Electrum
+- Rod-Nickel
+- Rod-Invar
+- Rod-Lead
+- Rod-Aluminium
+- Rod-Chrome
+
+- Rod-Titanium
+- Rod-Steel
+- Rod-Platinum
+- Rod-Tungsten
+- Rod-Brass
+- Rod-Zinc
+- Rod-Tungsten-Steel
+
+- Rod-Osmium
+- Rod-Iridium
+- Lense-Diamond (256)
+- Lense-Ruby
+- Lense-Emerald
+- Lense-Sapphire
+- Lense-Sapphire-Green
+
+- Lense-Garnet-Yellow
+- Lense-Garnet-Red
+- Lense-Olivine
+- Lense-Amber
+- Lense-Tanzanite
+- Lense-Topaz
+- Bolt-Iron (320)
+
+- Bolt-Gold
+- Bolt-Steel-Stainless
+- Bolt-Tin
+- Bolt-Copper
+- Bolt-Silver
+- Bolt-Bronze
+- Bolt-Electrum
+
+- Bolt-Nickel
+- Bolt-Invar
+- Bolt-Lead
+- Bolt-Aluminium
+- Bolt-Chrome
+- Bolt-Titanium
+- Bolt-Steel
+
+- Bolt-Platinum
+- Bolt-Tungsten
+- Bolt-Brass
+- Bolt-Zinc
+- Bolt-Tungsten-Steel
+- Bolt-Osmium
+- Bolt-Iridium
+
+- Screw-Iron (384)
+- Screw-Gold
+- Screw-Steel-Stainless
+- Screw-Tin
+- Screw-Copper
+- Screw-Silver
+- Screw-Bronze
+
+- Screw-Electrum
+- Screw-Nickel
+- Screw-Invar
+- Screw-Lead
+- Screw-Aluminium
+- Screw-Chrome
+- Screw-Titanium
+
+- Screw-Steel
+- Screw-Platinum
+- Screw-Tungsten
+- Screw-Brass
+- Screw-Zinc
+- Screw-Tungsten-Steel
+- Screw-Osmium
+
+- Screw-Iridium
+- Round-Iron (448)
+- Round-Gold
+- Round-Steel-Stainless
+- Round-Tin
+- Round-Copper
+- Round-Silver
+
+- Round-Bronze
+- Round-Electrum
+- Round-Nickel
+- Round-Invar
+- Round-Lead
+- Round-Aluminium
+- Round-Chrome
+
+- Round-Titanium
+- Round-Steel
+- Round-Platinum
+- Round-Tungsten
+- Round-Brass
+- Round-Zinc
+- Round-Tungsten-Steel
+
+- Round-Osmium
+- Round-Iridium

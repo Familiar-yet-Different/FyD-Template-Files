@@ -1,0 +1,140 @@
+Materials
+
+- Iron
+- Gold
+- Coal
+- Diamond
+- Redstone
+- Lapis
+- Emerald
+- Quartz
+- Copper
+- Tin/Cassiterite
+- Bronze
+- Brass
+- Silver
+- Lead
+- Saltpeter
+- Sulfur
+
+- Platinum/Shiny
+- Nickel/Ferris/Pentlandite
+- Invar
+- Steel (GT/RailCraft/TC)
+- (Uranium-Pitchblende)/Depleted/MOX/Depleted
+- Iridium
+- (Mercury-Quicksilver)/Cinnabar (3rd color is for GT ore)
+- Amber
+- Essence Shard
+- Cobalt
+- Alubrass
+- Alumite
+- Manyullyn
+- Ardite
+- Dark Iron
+- Galena (Silver & Lead)
+
+- Apatite (Forestry)
+- Quartz-Certus
+- Ruby
+- Sapphire
+- Peridot
+- 
+- Tungsten
+- Nicolite
+- Refined Iron
+- Aluminium
+- Bauxite
+- Osmium
+- Monazit
+- Plastic
+- Electrum
+- Titanium/Rutile
+
+Materials 2
+
+- Steel (RotaryCraft)
+- Fluorite-Blue
+- Fluorite-Pink
+- Fluorite-Orange
+- Fluorite-Magenta
+- Fluorite-Green
+- Fluorite-Red
+- Fluorite-White
+- Fluorite-Yellow
+- Fluorite-Purple
+- Cadmium
+- Indium
+- Plutonium
+- Calcite
+- Magnetite
+- Ammonium
+
+- Vinteum
+- Blue Topaz
+- Moonstone
+- Sunstone
+- Amethyst
+- Apatite (BoP)
+- Tanzanite
+- Topaz
+- Malachite
+- Graphite
+- Salt
+- Thorium
+- Enderium
+- 
+- 
+- 
+
+- Pyrite
+- Sheldonite
+- Sodalite
+- Olivine
+- Zinc
+- Chrome
+- Tetrahedrite
+- Garnet-Yellow
+- Garnet-Red
+- Cupronickel (Nickel-Copper)
+- Nichrome (4 Nickel-Chrome)
+- Kanthal (Aluminium-Iron-Chrome)
+- Soldering Alloy (9 Tin-Antimony)
+- Battery Alloy (4 Lead-Antimony)
+- Antimony
+- Tungsten-Steel 
+
+Materials 3 (Other Materials Stuff)
+
+- Iron
+- Gold
+- Coal
+- Diamond
+- Redstone
+- Emerald
+- Copper
+- Tin
+- Silver
+- Lead
+- Uranium
+- Iridium
+- Ruby
+- Sapphire
+- Sapphire-Green
+
+- Saltpeter
+- (Cinnabar-Mercury)
+- Cobalt
+- Aluminium
+- Copper
+- Tin
+- Iron
+- Gold
+- Tungsten
+- Osmium
+- Nicolite
+- Platinum/Shiny
+- 
+- 
+- 
+- 
