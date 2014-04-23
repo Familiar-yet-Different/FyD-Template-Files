@@ -1,8 +1,0 @@
-Items
-
-- Metals
-- Dusts
-- Gems
-- Boxes
-- Liquids
-- Other
