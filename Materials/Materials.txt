@@ -21,7 +21,7 @@ Materials
 - Nickel/Ferris/Pentlandite
 - Invar
 - Steel (GT/RailCraft/TC)
-- (Uranium-Pitchblende)/Depleted/MOX/Depleted
+- Uranium/Depleted/MOX/MOX-Depleted
 - Iridium
 - (Mercury-Quicksilver)/Cinnabar (3rd color is for GT ore)
 - Amber
@@ -83,58 +83,23 @@ Materials 2
 - Salt
 - Thorium
 - Enderium
+- Pitchblende/Enriched/Depleted/Plutonium/Thorium
 - 
-- 
-- 
+- Compressed Iron
 
-- Pyrite
-- Sheldonite
-- Sodalite
-- Olivine
-- Zinc
-- Chrome
-- Tetrahedrite
-- Garnet-Yellow
-- Garnet-Red
-- Cupronickel (Nickel-Copper)
-- Nichrome (4 Nickel-Chrome)
-- Kanthal (Aluminium-Iron-Chrome)
-- Soldering Alloy (9 Tin-Antimony)
-- Battery Alloy (4 Lead-Antimony)
-- Antimony
-- Tungsten-Steel 
-
-Materials 3 (Other Materials Stuff)
-
-- Iron
-- Gold
-- Coal
-- Diamond
-- Redstone
-- Emerald
-- Copper
-- Tin
-- Silver
-- Lead
-- Uranium
-- Iridium
-- Ruby
-- Sapphire
-- Sapphire-Green
-
-- Saltpeter
-- (Cinnabar-Mercury)
-- Cobalt
-- Aluminium
-- Copper
-- Tin
-- Iron
-- Gold
-- Tungsten
-- Osmium
-- Nicolite
-- Platinum/Shiny
 - 
 - 
 - 
 - 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-  
