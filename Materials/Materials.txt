@@ -84,7 +84,7 @@ Materials 2
 - Thorium
 - Enderium
 - Pitchblende/Enriched/Depleted/Plutonium/Thorium
-- 
+- Silicon
 - Compressed Iron
 
 - 
