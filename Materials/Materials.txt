@@ -8,98 +8,80 @@ Materials
 - Lapis
 - Emerald
 - Quartz
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 - Copper
 - Tin/Cassiterite
 - Bronze
-- Brass
 - Silver
 - Lead
 - Saltpeter
 - Sulfur
-
-- Platinum/Shiny
-- Nickel/Ferris/Pentlandite
-- Invar
-- Steel (GT/RailCraft/TC)
-- Uranium/Depleted/MOX/MOX-Depleted
-- Iridium
-- (Mercury-Quicksilver)/Cinnabar (3rd color is for GT ore)
-- Amber
-- Essence Shard
 - Cobalt
 - Alubrass
 - Alumite
 - Manyullyn
 - Ardite
-- Dark Iron
-- Galena (Silver & Lead)
+- Platinum/Shiny
+- Nickel/Ferris/Pentlandite
+- Invar
+- Electrum
 
-- Apatite (Forestry)
-- Quartz-Certus
 - Ruby
 - Sapphire
 - Peridot
-- 
+- Quartz-Certus
+- Apatite (Forestry)
+- Steel (GT/RailCraft/TC)
+- Titanium
+- Rutile
 - Tungsten
 - Nicolite
-- Refined Iron
 - Aluminium
 - Bauxite
 - Osmium
 - Monazit
-- Plastic
-- Electrum
-- Titanium/Rutile
+- Amber
+- Mercury/Quicksilver/Cinnabar
 
-Materials 2
+Sheet 2
 
-- Steel (RotaryCraft)
-- Fluorite-Blue
-- Fluorite-Pink
-- Fluorite-Orange
-- Fluorite-Magenta
-- Fluorite-Green
-- Fluorite-Red
-- Fluorite-White
-- Fluorite-Yellow
-- Fluorite-Purple
-- Cadmium
-- Indium
-- Plutonium
-- Calcite
-- Magnetite
-- Ammonium
-
-- Vinteum
-- Blue Topaz
-- Moonstone
-- Sunstone
 - Amethyst
 - Apatite (BoP)
 - Tanzanite
 - Topaz
 - Malachite
+- Cadmium
+- Indium
+- Calcite
+- Magnetite
+- Ammonium
 - Graphite
 - Salt
-- Thorium
 - Enderium
-- Pitchblende/Enriched/Depleted/Plutonium/Thorium
 - Silicon
+- Steel (RotaryCraft)
 - Compressed Iron
 
+- Iridium
+- Uranium
+- Uranium Depleted
+- Plutonium
+- Thorium
+- MOX
+- MOX-Depleted
+- Dark Iron
+- Plastic
+- Vinteum
+- Blue Topaz
+- Moonstone
+- Sunstone
 - 
 - 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
--  
